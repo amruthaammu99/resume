@@ -1,0 +1,58 @@
+{
+	"details":{
+		"image":"profile.jpg",
+		"name":"amrutha",
+		"number":"+91-8723653790",
+		"email":"amruthajampani@gmail.com",
+		"address":"Vignan Nirula College,guntur."
+	},
+	"career":{
+		"info":"to become a good programmer"
+	},
+	"education":[
+		{
+			"qualification":"btech",
+			"institute":"vignan Nirula College",
+			"year":"2016-2020",
+			"percentage":"90%"
+		},
+
+		{
+			"qualification":"intermediate",
+			"institute":"Geetam jr College",
+			"year":"2014-2016",
+			"percentage":"97%"
+		},
+
+		{
+			"qualification":"10th",
+			"institute":"Gandhi high school",
+			"year":"2013-2014",
+			"percentage":"95%"
+		}
+	],
+	"technicalskills" :[{
+		"title":"programming languages",
+		"info":["c","c++","java","python","ruby"]
+	},	
+	{
+		"title" : "databases",
+		"info" : ["sql","mysql"]
+	},
+	{
+		"title" : "operating systems",
+		"info" : ["linux","unix","putty","ubuntu"]
+	}
+	],
+	"acheive":[{
+		"info":"I got first in gd"
+	},
+	{
+		"info":"I can speak more than three languages"
+	},
+	{
+		"info":"I got second in debat"
+	}
+	]
+	
+}
